@@ -1,4 +1,4 @@
 ## Equipamentos 
 
-* [BeerMax](https://beermax.com.br/loja://beermax.com.br/loja/)
+* [BeerMax](https://beermax.com.br/loja)
 * [EzBrew](https://ezbrew.com.br)
